@@ -58,7 +58,7 @@ wx370091b9fbbbba63",
   /**
    * 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔
    */
-  USERS: [oF4ra578d7knNxcjsZysrA9RedE4
+  USERS: ["oF4ra578d7knNxcjsZysrA9RedE4","oF4ra59Ac6bFbJLAgeKUs3mSBJ5U"]
     {
       // 想要发送的人的名字
       name: "老婆",
